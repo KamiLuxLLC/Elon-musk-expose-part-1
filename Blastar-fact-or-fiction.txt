@@ -1,0 +1,212 @@
+
+
+BLASTAR
+Elons Video Game: Fact or Fiction? 
+
+A twelve-year-old boy in apartheid-era South Africa receives a computer, teaches himself programming, supposedly races BASIC in days, writes a space-themed video game, submits it to a magazine, and is paid $500 for his work. 
+Decades later, the episode becomes one of the foundational mythologies of Elon Musk: the childhood proof that the extraordinary engineer was there, waiting to emerge.
+
+The story is repeated so often that the question is rarely asked:
+What, exactly, is the evidence?
+
+There is a piece of purported historical evidence at the center of the story: a page bearing the title Blastar, the byline "By Elon Musk," source code, the words “PC and Office Technology — December 1984” and page number 69.
+
+That page is the starting point of this investigation.
+
+
+The magazine
+
+The first problem is whether the publication can be independently verified.
+
+The research has thus far found no surviving physical copy of PC and Office Technology in the South African public archives, nor an independently verified periodical record establishing the publication's run. The research describes the surviving evidence as dependent upon a single digital artifact. 
+
+A publication from 1984 didn’t need to have survived in great numbers. A small niche magazine can disappear.
+
+But the claim being made is not only that a magazine existed.
+
+The claim is that a particular South African technology publication was sufficiently established to publish a large issue, apparently printing at least 69 pages, while simultaneously leaving essentially no  physical record of its existence outside of one scanned page.
+
+That creates a question:
+Where is the magazine?
+Not a photograph of one page.
+Not a reproduction of one page.
+Not a later scan supplied through the Musk family.
+The magazine itself.
+The December 1984 issue.
+Another issue from the same publication.
+A library holding.
+A collector's copy.
+A publisher's record.
+A contemporary advertisement.
+A contributor's copy.
+A legal-deposit record of payment.
+
+Something that establishes publishing independently of the Elon Musk story.
+
+The investigation has not yet produced that independent evidence.
+That doesn’t prove the publication never existed.
+
+It does, however, mean that an unusually heavy evidentiary burden exists: the principal surviving proof of the publication is also the principal evidence used to establish Musk's origin story.
+
+The "archive"
+
+References to an online archive create the impression that researchers have access to an archived copy of the December 1984 magazine.
+They do not.
+
+What is being circulated as the archival evidence is not a complete magazine. It is a single page presented in digital format. 
+
+The distinction is tantamount.
+A complete archived issue would allow independent examination of:
+	•	the cover;
+	•	masthead;
+	•	publisher;
+	•	issue number;
+	•	advertisements;
+	•	preceding and subsequent pages;
+	•	page numbering;
+	•	editorial contents;
+	•	physical dimensions;
+	•	binding;
+	•	typography;
+	•	neighboring articles;
+	•	other contributors;
+	•	and the publication's internal consistency.
+A single page establishes none of those things by itself.
+The page says "PC and Office Technology."
+
+It is not independent evidence that the publication existed.
+And this is where the forensic analysis begins.
+
+The digital artifact
+
+The examined archive contains three presentations of the purported page and upon conducting string-level analysis.
+The extracted binary/string data includes the metadata:
+"Photoshop ICC profile."
+
+The same Photoshop-related metadata is visible in each of the three analyzed examples. 
+
+This does not, by itself, prove that someone fabricated the historical page.
+A legitimate historical scan can be opened, processed, or otherwise, in photoshop software. Doing so can introduce metadata or software signatures into the resulting digital file.
+
+the purported page contains several visual elements whose characteristics are supposed to belong to a 1984 commercial printing process.
+
+The printing problem
+the source code does not visually resemble ordinary typeset magazine text. It exhibits characteristics associated with dot-matrix impact printing: discrete character matrices, mechanical irregularities, and other features that this research has examined in detail. 
+
+The file's analysis identifies nine-pin impact-print characteristics and physical-paper artifacts consistent with continuous-feed printing.
+
+A magazine page printed by a conventional commercial press in 1984 would almost always be created through a sequence of photographic/typesetting and plate-making processes. The presence of an impact dot-matrix across the margins at the bottom of the page which contains an em dash which did not exist on the computer font available on the hardware used (more on that later).
+
+this debunks any claim the it was prepared and printed by young Elon and sent to plate making as is (this reasoning would also debunk his claim that the typesetter introduced the code error) as the existence of the em dash accompanied by the 9 pin dot matrix contradicts this.
+
+But they all lead to the same question:
+What was the production path of this page?
+And the answer matters because the page's visible characteristics appear to be contradictory to conventional magazine printing of amateur code: code verification at the publishers office (as Elon claims the typesetters did and fixed the error before publishing introduced despite the error existing on the archived page), typesetting, and offset plate printing process (this research was an offset printing press operator).
+
+The margin anomaly
+
+The apparent dot-matrix/noise pattern does not only appear inside the code box, It continues into the whole page and all margins. 
+
+If that pattern is genuinely part of the historical physical page, then an explanation is required for how it came to exist across areas that should have been blank during ordinary plate preparation and printing.
+
+If, instead, the texture was introduced during later reproduction, scanning, photographic processing, restoration, or digital compositing, that would beg the question: why? 
+
+Again, nothing should be declared proven at this stage.
+
+But the distinction is testable.
+A high-resolution examination of the original file not containing photoshop metadata could determine what the apparent dot matrix actually is. 
+
+That examination should be done of the original unedited scan and the physical paper itself by independent forensic document professionals.
+
+Page 69
+Then the page number itself.
+The page is number 69.
+The number is not proof of anything by itself (but given Elons obsession with the number it should raise eyebrows).
+
+What matters is that a small South African niche magazine was publishing bi-monthly issues of at least 69 pages. 
+
+A publication using conventional folded sheets and saddle-stitching would not be able to contain more than 50 pages generally. 
+
+The only reasonable explanation would be it was a substantially thick publication utilizing glue based spine binding. 
+or another more elaborate production method.
+
+That does not make page 69 impossible.
+It makes it much harder to explain how a small phone book sized publication disappeared from all records.
+
+Where is the spine?
+Where are pages 1–68?
+Where are pages 70 and onward?
+Where is the cover?
+Where are the advertisements that would have financed such a large magazine? 
+What publisher produced it?
+What printing press was used?
+What other issues were produced and vanished?
+What happened to the other copies?
+
+A page number 69 is not inherently impossible.
+It is suspicious because the page number highlights the amount of missing pages and the apparent huge size of the publisher.
+
+
+
+And then there is Blastar itself
+The childhood story generally begins with Musk's Commodore VIC-20.
+But the surviving Blastar code presents proof it was not written on a VIC-20. 
+
+The code is exclusive to the Spectravideo SV-328, 
+
+A substantially different machine from the VIC-20. 
+
+The research identifies the Spectravideo's Z80 architecture, substantially greater memory capacity, and TMS9918 graphics hardware.
+
+This does not establish that Musk never owned a VIC-20.
+
+It establishes something more useful:
+A significantly more expensive computer dependent on a SV-901 printer (a 9pin impact printer with continuous feed paper) and a SV-903 memory deck to save coding progress.
+
+Without those and accessories it would have been impossible to code the program because every reset or bad code run would result in the computers memory being wiped and all progress lost.
+
+This matters because the unique proprietary hardware of the data recorder would have made mailing the tape to a publisher impossible because they used enterprise grade software and computers not a consumer grade computer. 
+
+This is also interesting because the combined price of the SpectraVideo computer and accessories plus South Africa import fees would have been roughly $1200 dollars in 1983 dollars or close to $3500 in today’s dollars.
+
+That is proof of the musk family affluence at the time because statistically in South Africa at the time only 1% of the population would have had the disposable income to purchase this.
+
+Are we looking at the original child's printout, a reproduction of that printout, or the actual magazine page?
+Those are three different things.
+The public narrative tends to treat them as one.
+Forensic analysis cannot.
+
+What we can say—and what we cannot yet say
+
+At this stage we cannot call it authentic. It is not verifiable by independent analysis.
+
+We simply present the evidence.
+There is a purported December 1984 page 69.
+There is no complete copy of the magazine available
+The publicly circulated page exists as a modern digital file.
+That file contains Photoshop metadata.
+
+The page exhibits apparent impact print characteristics that do not align with magazine-production process.
+
+The footer of the page file contains a character that did not exist in SpectraVideo font.
+
+The source code is associated with a Spectravideo not a VIC-20 as the narrative claims.
+
+The precise method the program went from Musk's computer to the publisher is not documented or explained.
+
+The publication itself, the publisher, published copies, number of other issues, how long the publisher was in production, neighboring pages, and independent archival footprint, are all a mystery.
+
+The question is:
+"Can the historical record independently demonstrate that this is what happened?"
+&
+“Does the existing evidence provide proof of forgery or authentication”
+
+Respectively the answers are: No, not yet. And, preponderance of the evidence says forgery is more likely.
+
+For a story that has become one of the foundational pieces of the Elon Musk origin mythology, it is reasonable to say extraordinary claims demand extraordinary evidence. 
+
+In conclusion: Blastar should not be treated as a historical fact, but as what it is: unverifiable, with all the hallmarks of a modern reproduction or flagrant fraud in the interest of myth building. 
+
+Now in fairness if it can indeed be verified, it at least establishes the affluent wealth of the musk family in apartheid South Africa during an era of suffering and poverty contrary to the claims and image built around the claim poverty stricken young genius pulling himself up by the bootstraps.
+
+This is part 1 of the exposé of Elons long perpetuated myth of self. Reality bites. 
